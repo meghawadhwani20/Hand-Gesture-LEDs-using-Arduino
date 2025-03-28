@@ -1,3 +1,5 @@
+![Alt Text](https://github.com/meghawadhwani20/Hand-Gesture-LEDs-using-Arduino/blob/main/img1.jpg)
+
 # Hand Gesture Controlled LED System
 
 ##  Project Overview
